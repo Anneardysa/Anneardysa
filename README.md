@@ -49,7 +49,7 @@ I'm a developer from **Indonesia** passionate about creating tools that enhance 
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download-ArdysaModsTools-A855F7?style=for-the-badge)](https://github.com/Anneardysa)
+[![Download](https://img.shields.io/badge/Download-ArdysaModsTools-A855F7?style=for-the-badge)](https://github.com/Anneardysa/ArdysaModsTools)
 [![Tutorial](https://img.shields.io/badge/Watch_Tutorial-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Ardysa)
 
 </div>
