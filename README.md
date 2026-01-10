@@ -12,7 +12,7 @@
 
 ## About
 
-I'm a developer from **Indonesia** 🇮🇩 passionate about creating tools that enhance gaming experiences. My focus is on **Dota 2 modding** — making cosmetic customization accessible to everyone.
+I'm a developer from **Indonesia** passionate about creating tools that enhance gaming experiences.
 
 ---
 
