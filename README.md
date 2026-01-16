@@ -30,10 +30,10 @@ I'm a developer from **Indonesia** passionate about creating tools that enhance 
 
 <div align="center">
 
-### 🎮 ArdysaModsTools 2.0
+### 🎮 ArdysaModsTools 2.1
 
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-![Version](https://img.shields.io/badge/Version-2.0-blue?style=flat-square)
+![Version](https://img.shields.io/badge/Version-2.1-blue?style=flat-square)
 ![Built](https://img.shields.io/badge/Built_with-C%23-blueviolet?style=flat-square)
 
 </div>
